@@ -1,0 +1,9 @@
+basedir  :  b_dir
+commitdir:  c_dir
+baseurl  : "https://github.com/ashutosh-p-k1/Sample-Kubearmor-policies.git"
+#baseurl  : "https://github.com/kubearmor/policy-templates"
+#commiturl: "https://github.com/asifalix/policy-auto-test"
+#username : "ashutoshpandeyengineer"
+#password : "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"
+commit : "29fdcfb3f6e3d6ba89fcd60eb294099f51e0b55f" 
+commiturl : "https://github.com/ashutoshpandeyengineer/policy-templates.git"
